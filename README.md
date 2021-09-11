@@ -1,2 +1,2 @@
-# maratona_dsicover-devfinances
-DevFinance$ - {M. Discover}
+# maratona_discover
+DevFinance$ 
